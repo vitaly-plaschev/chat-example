@@ -6,6 +6,6 @@ npm install
 
 node server.js
 
-# Open two tabs at you browser with following address: http://localhost:8080
+## Open two tabs at you browser with following address: http://localhost:8080
 Register user names and you can send messages to each other
 
